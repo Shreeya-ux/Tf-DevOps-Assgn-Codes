@@ -1,1 +1,1 @@
-bucket_name = "partha-s3-sqs-lambda-tf-bucket"
+bucket_name = "shreeya-s3-sqs-lambda-tf-bucket"
